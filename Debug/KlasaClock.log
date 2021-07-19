@@ -1,0 +1,8 @@
+﻿  Clock.cpp
+C:\Users\arczi\source\repos\KlasaClock\KlasaClock\Clock.cpp(45,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\arczi\source\repos\KlasaClock\KlasaClock\Clock.cpp(47,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\arczi\source\repos\KlasaClock\KlasaClock\Clock.cpp(61,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\arczi\source\repos\KlasaClock\KlasaClock\Clock.cpp(63,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Main.cpp
+  Generating Code...
+  KlasaClock.vcxproj -> C:\Users\arczi\source\repos\KlasaClock\Debug\KlasaClock.exe
